@@ -58,6 +58,7 @@ const SignUp = () => {
     
   };
 
+  console.log(gender);
   return (
     <div className="form-container">
       <h1>Sign Up</h1>
